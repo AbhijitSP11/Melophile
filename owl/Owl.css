@@ -1,0 +1,22 @@
+.title {
+    margin-bottom: 20px;
+    padding: 20px;
+  
+}
+
+.img {
+    height: 280px;
+    width: 100%;
+    
+}
+img{
+    border-radius: 5px;
+   
+}
+
+body{
+    margin-top: 70px;
+}
+.owl-item {
+    transition:  400ms;
+ }

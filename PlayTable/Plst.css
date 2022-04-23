@@ -1,0 +1,12 @@
+.audio-player {
+     background: url('./album-2.jpg'); 
+    height: 2rem;
+    background-size: contain;
+    display: flex;
+    border-radius: 100px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #play {
+    cursor: pointer;
+  }
